@@ -7,7 +7,7 @@ ifndef::imagesdir[:imagesdir: images]
 === Projektbeschreibung
 Die Idee des Projekts ist eine interaktive Vokabel Lernapp, die Benutzern hilft neue Wörter effizienter zu
 lernen und ihren Wortschatz zu erweitern. Die App bietet zwei verschiedene Lernmodi. Beim ersten Modus
-lernt man mit "Karteikarten" die Vokabeln und ihre Übersetzungen enthalten. Der zweite Modus besteht aus
+lernt man mit "Karteikarten", die Vokabeln und ihre Übersetzungen enthalten. Der zweite Modus besteht aus
 einem Multiple-Choice-Test, bei dem man die richtige Übersetzung auswählen muss. Nutzer können ihre eigenen
 Vokabeln eingeben und speichern. Außerdem werden die Lernfortschritte gespeichert und können als Statistik
 angezeigt werden.
@@ -17,7 +17,7 @@ angezeigt werden.
 * Implementierung von verschiedenen Lernmodi
 * Implementierung einer Statistik um Lernfortschritte sichtbar zu machen
 * Verminderung des Zeitaufwands um Vokabeln zu lernen
-* Verminderung des Aufwands um Vokabeln zu verwalten (z.B. Karteikarten basteln müssen)
+* Verminderung des Aufwands um Vokabeln zu verwalten (z.B. basteln von Karteikarten, ...)
 
 === Projektnutzen
 Die Vokabel Lernapp erleichtert das Lernen von Vokabeln und hilft Nutzern ihre Sprachkenntnisse zu verbessern.
@@ -27,5 +27,5 @@ konzentrieren. Außerdem können sie sich mithilfe der Multiple-Choice-Tests sel
 
 === Konsequenzen bei Nichtdurchführung des Projekts
 Ohne die Vokabel Lernapp sind Schüler auf weniger effektive Lernmethoden angewiesen. Das würde zu
-geringeren Lernerfolgen und einem ineffizienten Einsatz der Lernzeit führen. Schüler müssten mehr Zeit
-aufwenden, um Vokabeln zu lernen und Materialien zu erstellen, wodurch sie sich weniger motiviert fühlen würden.
+geringeren Lernerfolgen führen und die Lernzeit steigern. Schüler müssten mehr Zeit aufwenden, um Vokabeln zu
+lernen und Materialien zu erstellen, wodurch sie sich weniger motiviert fühlen würden.
