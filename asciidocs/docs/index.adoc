@@ -2,9 +2,15 @@
 Vrhovac David | 2024-10-19
 ifndef::imagesdir[:imagesdir: images]
 
-== Projektname
+== Vokabel Lernapp
 
 === Projektbeschreibung
+Die Idee des Projekts ist eine interaktive Vokabel-Lern-App, die Benutzern hilft neue Wörter effizienter zu
+lernen und ihren Wortschatz zu erweitern. Die App bietet zwei verschiedene Lernmodi. Beim ersten Modus
+lernt man mit "Karteikarten", die Vokabeln und ihre Übersetzungen enthalten. Der zweite Modus besteht aus
+einem Multiple-Choice-Test, bei dem man die richtige Übersetzung auswählen muss. Nutzer können ihre eigenen
+Vokabeln eingeben und speichern. Außerdem werden die Lernfortschritte gespeichert und können als Statistik
+angezeigt werden.
 
 === Projektziele
 
