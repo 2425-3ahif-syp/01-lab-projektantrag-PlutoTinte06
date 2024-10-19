@@ -20,5 +20,9 @@ angezeigt werden.
 * Verminderung des Aufwands um Vokabeln zu verwalten (z.B. Karteikarten basteln müssen)
 
 === Projektnutzen
+Die Vokabel Lernapp erleichtert das Lernen von Vokabeln und hilft Nutzern ihre Sprachkenntnisse zu verbessern.
+Durch die Interaktivität und die spielerische Wirkung der App wird die Motivation der Nutzer gesteigert.
+Schüler müssen nicht mehr Zeit mit dem Erstellen von Karteikarten verschwenden und können sich auf das Lernen
+konzentrieren. Außerdem können sie sich mithilfe der Multiple-Choice-Tests selbst abprüfen.
 
 === Konsequenzen bei Nichtdurchführung des Projekts
