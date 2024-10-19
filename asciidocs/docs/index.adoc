@@ -26,3 +26,6 @@ Schüler müssen nicht mehr Zeit mit dem Erstellen von Karteikarten verschwenden
 konzentrieren. Außerdem können sie sich mithilfe der Multiple-Choice-Tests selbst abprüfen.
 
 === Konsequenzen bei Nichtdurchführung des Projekts
+Ohne die Vokabel Lernapp sind Schüler auf weniger effektive Lernmethoden angewiesen. Das würde zu
+geringeren Lernerfolgen und einem ineffizienten Einsatz der Lernzeit führen. Schüler müssten mehr Zeit
+aufwenden, um Vokabeln zu lernen und Materialien zu erstellen, wodurch sie sich weniger motiviert fühlen würden.
